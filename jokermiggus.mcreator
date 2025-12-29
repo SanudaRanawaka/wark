@@ -12,8 +12,8 @@
     "children": []
   },
   "workspaceSettings": {
-    "modid": "jorkermiggus",
-    "modName": "JorkerMiggus",
+    "modid": "jokermiggus",
+    "modName": "JokerMiggus",
     "version": "1.0.0",
     "author": "Sanuda, MCreator",
     "websiteURL": "https://mcreator.net",
@@ -27,7 +27,7 @@
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.20.1",
     "credits": "Created using mod maker MCreator - https://mcreator.net/about",
-    "modElementsPackage": "net.mcreator.jorkermiggus"
+    "modElementsPackage": "net.mcreator.jokermiggus"
   },
   "mcreatorVersion": 202400452410
 }
