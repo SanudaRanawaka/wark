@@ -1,4 +1,4 @@
-package net.mcreator.jokermiggus;
+package net.mcreator.jorkermiggus;
 
 import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.LogManager;
@@ -26,12 +26,12 @@ import java.util.Collection;
 import java.util.ArrayList;
 import java.util.AbstractMap;
 
-@Mod("jokermiggus")
-public class JokermiggusMod {
-	public static final Logger LOGGER = LogManager.getLogger(JokermiggusMod.class);
-	public static final String MODID = "jokermiggus";
+@Mod("jorkermiggus")
+public class JorkermiggusMod {
+	public static final Logger LOGGER = LogManager.getLogger(JorkermiggusMod.class);
+	public static final String MODID = "jorkermiggus";
 
-	public JokermiggusMod() {
+	public JorkermiggusMod() {
 		// Start of user code block mod constructor
 		// End of user code block mod constructor
 		MinecraftForge.EVENT_BUS.register(this);
